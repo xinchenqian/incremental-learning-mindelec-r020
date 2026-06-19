@@ -1,0 +1,7 @@
+mindspore
+mindelec
+numpy
+matplotlib
+opencv-python
+Pillow
+easydict

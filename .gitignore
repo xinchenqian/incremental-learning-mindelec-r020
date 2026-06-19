@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.ckpt
+*.meta
+*.log
+*.npy
+*.npz
+solver/
+offload/
+summary*/
+vision*/
+.ipynb_checkpoints/
